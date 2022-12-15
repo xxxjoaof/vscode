@@ -1,0 +1,6 @@
+#logo_refrio{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-direction: column;
+}
